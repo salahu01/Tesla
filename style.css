@@ -1,0 +1,152 @@
+.sheet1{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/e90a341e-f9ca-4aa1-8eab-94afea118786/bvlatuR/std/2880x1800/M3-Homepage-D");
+    background-position: center;
+    background-size: cover;
+}
+.navbar{
+    position: fixed;
+width: 95%;
+margin: 50;
+padding: 25px 0;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.logo{
+    width: 39%;
+    padding-left: 12%;
+    
+}
+
+.ia:hover{
+    color: black;
+    font-size: 120%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 50%;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgba(145, 145, 145, 0.466);
+    text-decoration: none;
+}
+a{
+
+    color: black;
+    font-size: 120%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 50%;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgba(127, 255, 212, 0);
+    text-decoration: none;
+}
+.sheet2{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70");
+    background-position: center;
+    background-size: cover;
+}
+.sheet3{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/676da95d-942e-414c-8534-f1832f0d4ced/bvlatuR/std/3296x1798/ms-homepage-desktop");
+    background-position: center;
+    background-size: cover;
+}
+.sheet4{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/325743a2-d187-4e28-91a3-5a2e47e317f7/bvlatuR/std/2880x1800/ModelX-Homepage-D");
+    background-position: center;
+    background-size: cover;
+}
+.sheet5{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D");
+    background-position: center;
+    background-size: cover;
+}
+.sheet6{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/c877126e-0db5-409d-a412-04fc94b59b76/bvlatuR/std/2880x1800/HP-SR-Design-D");
+    background-position: center;
+    background-size: cover;
+}
+.sheet7{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories");
+    background-position: center;
+    background-size: cover;
+}
+.s1f1{
+
+    font-size: 50px;
+
+    padding-left: 40%;
+    padding-top: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.f2{
+    padding-left: 40%;
+}
+.s7f1
+{
+
+    font-size: 50px;
+    padding-left: 41%;
+    padding-top: 7%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.s7b{
+    font-size: large;
+    border-radius: 40px;
+    border: 0px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 45%;
+    margin-top: 26%;
+    width: 11%;
+    height: 50px;
+    cursor: pointer;
+
+}
+.part{
+    width: 95%;
+    margin: 50;
+    padding: 25px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.but12{
+    font-size: large;
+    border-radius: 40px;
+    border: 0px;
+    background-color: rgba(20, 20, 20, 0.842);
+    color: aliceblue;
+    margin-top: 22%;
+    margin-left: 30%;
+    width: 305px;
+    height: 50px;
+    cursor: pointer;
+
+}
+.but121{
+    font-size: medium;
+    margin-right: 25%;
+    border-radius: 40px;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0.616);
+    color: rgb(48, 48, 48);
+    margin-top: 22%;
+    width: 305px;
+    height: 50px;
+    cursor: pointer;
+
+}
